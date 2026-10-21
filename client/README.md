@@ -60,7 +60,7 @@ http://localhost:5000/api
 On a deployed host, it uses the Render backend:
 
 ```text
-https://careconnect-clinic-appointment-system-qp97.onrender.com/api
+https://ccas-website-api.onrender.com/api
 ```
 
 Change the production address in `config.js` if the Render service name
